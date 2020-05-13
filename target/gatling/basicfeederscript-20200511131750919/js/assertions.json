@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.basicpackage.BasicFeederScript",
+  "simulationId": "basicfeederscript",
+  "start": 1589203070919,
+  "description": "",
+  "scenarios": ["basicgetscenario"],
+  "assertions": [
+
+  ]
+}

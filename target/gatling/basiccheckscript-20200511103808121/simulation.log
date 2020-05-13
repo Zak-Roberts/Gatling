@@ -1,0 +1,4 @@
+RUN	test.scala.basicpackage.BasicCheckScript	basiccheckscript	1589193488121	 	3.3.1
+USER	basicgetscenario	1	START	1589193489037	1589193489037
+REQUEST	1		basicgetrequest	1589193489059	1589193489830	KO	status.find.is(201), but actually found 200
+USER	basicgetscenario	1	END	1589193489037	1589193489871

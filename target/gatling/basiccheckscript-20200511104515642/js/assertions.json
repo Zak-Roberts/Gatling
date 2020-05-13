@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.basicpackage.BasicCheckScript",
+  "simulationId": "basiccheckscript",
+  "start": 1589193915642,
+  "description": "",
+  "scenarios": ["basicgetscenario"],
+  "assertions": [
+
+  ]
+}

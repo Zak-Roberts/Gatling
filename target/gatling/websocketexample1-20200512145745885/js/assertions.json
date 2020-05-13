@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.websocketpackage.WebSocketExample1",
+  "simulationId": "websocketexample1",
+  "start": 1589295465885,
+  "description": "",
+  "scenarios": ["testwebsocketscenario"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.injectionprofile.BasicGet_OpenModel",
+  "simulationId": "basicget-openmodel",
+  "start": 1589371588272,
+  "description": "",
+  "scenarios": ["basicGetScenario"],
+  "assertions": [
+
+  ]
+}

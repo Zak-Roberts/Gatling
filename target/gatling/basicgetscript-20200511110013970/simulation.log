@@ -1,0 +1,4 @@
+RUN	test.scala.basicpackage.BasicGetScript	basicgetscript	1589194813970	 	3.3.1
+USER	basicgetscenario	1	START	1589194814873	1589194814873
+REQUEST	1		basicgetrequest	1589194814977	1589194825931	OK	 
+USER	basicgetscenario	1	END	1589194814873	1589194825968

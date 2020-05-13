@@ -1,0 +1,10 @@
+{
+  "simulation": "test.scala.otherprotocolspackage.SSEExample",
+  "simulationId": "sseexample",
+  "start": 1589297558137,
+  "description": "",
+  "scenarios": ["sse_scenario"],
+  "assertions": [
+
+  ]
+}
